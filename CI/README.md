@@ -46,13 +46,29 @@ Mono-Repo - Único repositório, refatoração melhor, porém controle e organiz
 <br />
 
 **Feature Flag**<br>
+*Feature Flag* - O código é inserido no master, mas ele não é visível para a equipe. O Feature flag serve também para testar funcionalidades, por exemplo.<br>
 <img src="https://github.com/fabiokerber/CI_CD/blob/main/img/030120221308.JPG">
-*Feature Flag* - O código é inserido no master, mas ele não é visível para a equipe. O Feature flag serve também para testar funcionalidades, por exemplo.
 <br />
 <br />
 
 **Merge vs Rebase**<br>
+*Rebase* - "Merge" estado atual do Master para a branch que desejar. Develop atualizada com código da Master.<br>
 <img src="https://github.com/fabiokerber/CI_CD/blob/main/img/030120221319.JPG">
-*Rebase* - "Merge" estado atual do Master para a branch que desejar. Develop atualizada com código da Master.
 <br />
 <br />
+
+**TTD**<br>
+*TDD (Test Drive Development)* - Os testes em integração contínua são sobre feedback do software, como a maioria dos métodos ágeis.<br>
+<img src="https://github.com/fabiokerber/CI_CD/blob/main/img/030120221329.JPG">
+<br />
+<br />
+
+**Testes Automatizados**<br>
+Existem diversas categorias e níveis de testes automatizados, aqui descaremos três: *unit tests*, *integration tests* e *functional tests*.<br>
+- Os *unit tests* verificam unidades, como métodos e funções dentro do software. São os testes mais rápidos, baratos de escrever e sua manutenção é simples.<br>
+- Os *testes de integração* são de um nível mais alto, e testam a relação de elementos, como por exemplo um banco de dados e o software. A realização destes testes é mais lenta, afinal possuem um outro grau de complexidade.<br>
+- Testes de um nível ainda maior, são os *functional tests*, que testam o sistema completo e garante a correção de funcionalidades no ponto de vista do cliente.<br>
+<img src="https://github.com/fabiokerber/CI_CD/blob/main/img/030120221331.JPG">
+<br />
+<br />
+
