@@ -15,3 +15,7 @@ Entregas frequentes e com menor criticidadade.<br>
 Mono-Repo - Único repositório, refatoração melhor, porém controle e organização mais complexa.<br>
 <img src="https://github.com/fabiokerber/CI_CD/blob/main/img/030120221111.png">
 <br />
+
+**Boas práticas**<br>
+<img src="https://github.com/fabiokerber/CI_CD/blob/main/img/030120221119.jpg">
+<br />
