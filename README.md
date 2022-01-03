@@ -8,5 +8,5 @@ Risco maior ao "commitar" muitas alterações de uma única vez.<br>
 
 **Problema - Integrações frequentes contínuas**<br>
 Entregas frequentes e com menor criticidadade<br>
-<img src="https://github.com/fabiokerber/CI_CD/blob/main/img/030120221105.png">
+<img src="https://github.com/fabiokerber/CI_CD/blob/main/img/030120221107.png">
 <br />
