@@ -36,11 +36,11 @@ Mono-Repo - Único repositório, refatoração melhor, porém controle e organiz
 <br />
 
 **Github Flow**<br>
-<img src="https://github.com/fabiokerber/CI_CD/blob/main/img/030120221157.jpg">
+<img src="https://github.com/fabiokerber/CI_CD/blob/main/img/030120221157.JPG">
 <br />
 <br />
 
 **Gitlab Flow**<br>
-<img src="https://github.com/fabiokerber/CI_CD/blob/main/img/030120221200.jpg">
+<img src="https://github.com/fabiokerber/CI_CD/blob/main/img/030120221200.JPG">
 <br />
 <br />
