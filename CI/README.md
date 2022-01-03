@@ -98,7 +98,7 @@ Obs: Sempre importante coletar os *feedbacks* sobre cada teste.<br>
 
 **Build e Testes Automatizados**<br>
 <kbd>
-    <img src="https://github.com/fabiokerber/CI_CD/blob/main/img/030120221428.JPG">
+    <img src="https://github.com/fabiokerber/CI_CD/blob/main/img/030120221428.jpg">
 </kbd>
 <br />
 <br />
