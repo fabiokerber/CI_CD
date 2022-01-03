@@ -1,9 +1,9 @@
-# CI_CD<br>
+# CI<br>
 Conceitos<br>
 
 **Problema - Poucos momentos de integração**<br>
 Risco maior ao "commitar" muitas alterações de uma única vez.<br>
-<img src="https://github.com/fabiokerber/CI_CD/blob/main/img/030120221105.png">
+<img src="https://github.com/fabiokerber/CI_CD/blob/main/img/030120221105.png" style="border:5px solid black">
 <br />
 <br />
 
