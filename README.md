@@ -3,4 +3,4 @@
 |Training     |Tools|
 |-------------|-----------|
 |`CI`| Integração Contínua: Mais qualidade e menos risco no desenvolvimento
-|`CD`| Kubernetes: Deployments, Volumes e Escalabilidade
+|`CD`| Entrega Contínua: Confiabilidade e qualidade na implantação de software
