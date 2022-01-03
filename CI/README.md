@@ -41,7 +41,7 @@ Mono-Repo - Único repositório, refatoração melhor, porém controle e organiz
 <br />
 
 **Gitlab Flow**<br>
-<img src="https://github.com/fabiokerber/CI_CD/blob/main/img/030120221200.JPG">
+<img src="https://github.com/fabiokerber/CI_CD/blob/main/img/030120221200.JPG" style="border:5px solid black">
 <br />
 <br />
 
