@@ -88,9 +88,10 @@ Existem diversas categorias e níveis de testes automatizados, aqui descaremos t
 - Os *unit tests* verificam unidades, como métodos e funções dentro do software. São os testes mais rápidos, baratos de escrever e sua manutenção é simples.<br>
 - Os *testes de integração* são de um nível mais alto, e testam a relação de elementos, como por exemplo um banco de dados e o software. A realização destes testes é mais lenta, afinal possuem um outro grau de complexidade.<br>
 - Testes de um nível ainda maior, são os *functional tests*, que testam o sistema completo e garante a correção de funcionalidades no ponto de vista do cliente.<br>
+- Uma técnica comum é executar o que chamamos de *smoke tests*. Na prática, trata-se de uma seleção de testes que garantem que as funcionalidades mais importantes do sistema estejam operando corretamente. Esses testes avaliam um conjunto menor de elementos, por isso são mais rápidos, e dessa maneira teremos a garantia de que o software está operante em sua estrutura básica.<br>
+Obs: Sempre importante coletar os *feedbacks* sobre cada teste.<br>
 <kbd>
     <img src="https://github.com/fabiokerber/CI_CD/blob/main/img/030120221331.JPG">
 </kbd>
 <br />
 <br />
-
