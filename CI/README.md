@@ -52,7 +52,7 @@ Mono-Repo - Único repositório, refatoração melhor, porém controle e organiz
 <br />
 
 **Merge vs Rebase**<br>
-<img src="https://github.com/fabiokerber/CI_CD/blob/main/img/030120221308.JPG">
-*Feature Flag* - O código é inserido no master, mas ele não é visível para a equipe. O Feature flag serve também para testar funcionalidades, por exemplo.
+<img src="https://github.com/fabiokerber/CI_CD/blob/main/img/030120221319.JPG">
+*Rebase* - "Merge" estado atual do Master para a branch que desejar. Develop atualizada com código da Master.
 <br />
 <br />
