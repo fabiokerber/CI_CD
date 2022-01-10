@@ -1,4 +1,4 @@
-# CD<br>
+# Continuous Delivery<br>
 Conceitos<br>
 
 **Pipeline de Deploy**<br>
@@ -53,5 +53,32 @@ Ambientes sempre deployáveis em qualquer ambiente e em código!.<br>
 <kbd>
     <img src="https://github.com/fabiokerber/CI_CD/blob/main/img/100120221041.JPG">
 </kbd>
+<br />
+<br />
+
+**Princípios da Entrega Contínua**<br>
+Entrega contínua deve ser realizada a qualquer momento, senão não há este conceito.<br>
+"Entregar software com alta qualidade e grande valor de maneira eficiente, rápido e confiável".<br>
+Ambientes sempre *"deployáveis"* em qualquer ambiente e em código!.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Automatize
+&nbsp;&nbsp;&nbsp;&nbsp;II. Versione
+&nbsp;&nbsp;&nbsp;&nbsp;III. Repita
+&nbsp;&nbsp;&nbsp;&nbsp;IV. Garanta qualidade
+&nbsp;&nbsp;&nbsp;&nbsp;V. Defina "done" < O que é pronto? 
+&nbsp;&nbsp;&nbsp;&nbsp;VI. Crie *delivery team*
+&nbsp;&nbsp;&nbsp;&nbsp;VII. Melhoria contínua
+<br />
+<br />
+
+**Elementos da Entrega Contínua**<br>
+Cultura DevOps<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- feedback, colaboração, confiança
+&nbsp;&nbsp;&nbsp;&nbsp;- melhoria e aprendizagem contínua
+Patterns<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- deployment pipeline
+&nbsp;&nbsp;&nbsp;&nbsp;- deploy patterns (blue/green, canary, feature toogle)
+Arquitetura<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- novas Propriedades: testability & deployability
+&nbsp;&nbsp;&nbsp;&nbsp;- SOLID, Services, 12 Factor App
 <br />
 <br />

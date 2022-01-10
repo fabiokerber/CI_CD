@@ -1,4 +1,4 @@
-# CI<br>
+# Continuous Integration<br>
 Conceitos<br>
 
 **Problema - Poucos momentos de integração**<br>
