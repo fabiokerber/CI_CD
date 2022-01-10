@@ -82,3 +82,25 @@ Arquitetura<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- SOLID, Services, 12 Factor App
 <br />
 <br />
+
+**Etapas / Stages do Pipeline de Deploy**<br>
+Todas as etapas devem ser realizadas com sucesso.<br>
+AAT = Automated Acceptance Tests<br>
+UAT = User Acceptance Testing<br>
+<kbd>
+    <img src="https://github.com/fabiokerber/CI_CD/blob/main/img/100120221729.png">
+</kbd>
+<br />
+<br />
+
+**Boas práticas**<br>
+- pipeline é a **única forma de deploy**<br>
+- **mantém** o pipeline o mais **rápido** possível<br>
+- **build** apenas uma **vez**<br>
+- **build independente** do ambiente
+- ambientes **iguais/semelhantes** (prd e hml)
+<kbd>
+    Build Unit Test > AAT > UAT > HML > PRD
+</kbd>
+<br />
+<br />
