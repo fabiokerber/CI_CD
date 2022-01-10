@@ -19,12 +19,18 @@ Todos colaborando com o mesmo objetivo!<br>
 **Etapas de Deploy**<br>
 Release Antipatterns = Bad trip!!<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento manual de ambientes > Sempre garantir que os testes sejam realizados nos ambientes de forma correta (Homologação deve estar igual à Produção, garantindo assim que funcionará corretamente em Produção).<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-  **Resultado:** Deploy não confiável.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-  **Regra:** Todos os ambientes são tratados como código, versionado e criados de maneira *automatizada*.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- **Resultado:** Deploy não confiável.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- **Regra:** Todos os ambientes são tratados como código, versionado e criados de maneira *automatizada*.<br>
 </br>
-&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento manual de ambientes > Sempre garantir que os testes sejam realizados nos ambientes de forma correta (Homologação deve estar igual à Produção, garantindo assim que funcionará corretamente em Produção).<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-  **Resultado:** Deploy não confiável.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-  **Regra:** Todos os ambientes são tratados como código, versionado e criados de maneira *automatizada*.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Dev nunca viu Ops?<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Deploys longos? Horas ou dias?<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Rollbacks frequentes?<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-  **Resultado:** Deploy lento, propício ao erro, não confiável.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-  **Regra:** Somente duas tarefas devem ser executadas manualmente: 1) Escolher a Release. 2) Qualquer um pode clicar no "Deploy Button", pois todo o deploy está "codado" e automatizado.<br>
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;Deploy apenas no *fim do ciclo* de desenvolvimento(não é certeza de que o deploy será realizado com sucesso em produção).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- **Resultado:** Pouca colaboração, problemas só aparecem no dia da publicação, não confiável e nem rápido, *"achismo"*.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- **Regra:** Deploy faz parte do desenvolvimento desde a primeira interação, todos definem um *delivery team*.<br>
 <kbd>
     <img src="https://github.com/fabiokerber/CI_CD/blob/main/img/100120220928.JPG">
 </kbd>
