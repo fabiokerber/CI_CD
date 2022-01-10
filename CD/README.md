@@ -99,6 +99,7 @@ UAT = User Acceptance Testing<br>
 - **build** apenas uma **vez**<br>
 - **build independente** do ambiente
 - ambientes **iguais/semelhantes** (prd e hml)
+- deploy sempre igual para **todos os ambientes**
 <kbd>
     Build Unit Test > AAT > UAT > HML > PRD
 </kbd>
