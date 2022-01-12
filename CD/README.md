@@ -105,3 +105,19 @@ UAT = User Acceptance Testing<br>
 </kbd>
 <br />
 <br />
+
+**Boas práticas - Commit Stage (Continuous Integration)**<br>
+<kbd>
+    <img src="https://github.com/fabiokerber/CI_CD/blob/main/img/120120221609.JPG">
+</kbd>
+<br />
+<br />
+
+**Boas práticas - AAT (Automated Acceptance Tests)**<br>
+Garantir que a aplicação como um todo, funcione!<br>
+Testes demorados, caros.<br>
+<kbd>
+    <img src="https://github.com/fabiokerber/CI_CD/blob/main/img/120120221609.JPG">
+</kbd>
+<br />
+<br />
