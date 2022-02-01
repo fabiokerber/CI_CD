@@ -126,9 +126,72 @@ Testes de requisitos de negócio.<br>
 **UAT (User Acceptance Tests)**<br>
 Usuário/Cliente que fará os testes neste stage.<br>
 Feedback direto do cliente, já testando com as regras de negócio.<br>
-"Our highest priority is to satisfy the **customer** through early and of *continuous delivery* **valuable software**.
+"Our highest priority is to satisfy the **customer** through early and of *continuous delivery* **valuable software**.<br>
 <kbd>
     <img src="https://github.com/fabiokerber/CI_CD/blob/main/img/010220221035.jpg">
+</kbd>
+<br />
+<br />
+
+**Capacity Testing Stage (User Acceptance Tests)**<br>
+Reproduzir os cenários reais no ambiente de teste e validar se aguenta carga de utilização.<br>
+<kbd>
+    <img src="https://github.com/fabiokerber/CI_CD/blob/main/img/010220221041.jpg">
+</kbd>
+<kbd>
+    <img src="https://github.com/fabiokerber/CI_CD/blob/main/img/010220221044.jpg">
+</kbd>
+<br />
+<br />
+
+**Releases de baixo risco**<br>
+<kbd>
+    <img src="https://github.com/fabiokerber/CI_CD/blob/main/img/010220221049.jpg">
+</kbd>
+<br />
+<br />
+
+**Deploy vs Release**<br>
+Deploy - Versão "lançada".<br>
+Release - Versão disponibilizada ao cliente.<br>
+<kbd>
+    <img src="https://github.com/fabiokerber/CI_CD/blob/main/img/010220221053.jpg">
+</kbd>
+<br />
+<br />
+
+**Deploy vs Release (Tipos de Release)**<br>
+Técnicas de Release.<br>
+<kbd>
+    <img src="https://github.com/fabiokerber/CI_CD/blob/main/img/010220221054.jpg">
+</kbd>
+<kbd>
+    <img src="https://github.com/fabiokerber/CI_CD/blob/main/img/010220221056.jpg">
+</kbd>
+<br />
+<br />
+
+**Blue-Green Deployment**<br>
+Blue - Release atual.<br>
+Green - Novo Release.<br>
+Os ambientes ficam no ar caso seja necessário retornar a utilização do release anterior.<br>
+Evita downtime.<br>
+Rollback rápido.<br>
+<kbd>
+    <img src="https://github.com/fabiokerber/CI_CD/blob/main/img/010220221057.jpg">
+</kbd>
+<kbd>
+    <img src="https://github.com/fabiokerber/CI_CD/blob/main/img/010220221059.jpg">
+</kbd>
+<br />
+<br />
+
+**Canary Release / Dark Launching**<br>
+As duas versões são utilizadas ao mesmo tempo.<br>
+Alguns usuários testers usam o Green e os demais continuam utilizando o Blue.<br>
+É possível definir essa "Divisão", conforme melhor para o negócio.<br>
+<kbd>
+    <img src="https://github.com/fabiokerber/CI_CD/blob/main/img/010220221102.jpg">
 </kbd>
 <br />
 <br />
