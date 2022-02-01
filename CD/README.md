@@ -123,12 +123,12 @@ Testes de requisitos de negócio.<br>
 <br />
 <br />
 
-**Boas práticas - UAT (User Acceptance Tests)**<br>
+**UAT (User Acceptance Tests)**<br>
 Usuário/Cliente que fará os testes neste stage.<br>
-Feedback direto do cliente.<br>
-"Our highest priority is to satisfy the #customer# through early and of *continuous delivery* valuable software.
+Feedback direto do cliente, já testando com as regras de negócio.<br>
+"Our highest priority is to satisfy the **customer** through early and of *continuous delivery* **valuable software**.
 <kbd>
-    <img src="https://github.com/fabiokerber/CI_CD/blob/main/img/010220221020.jpg">
+    <img src="https://github.com/fabiokerber/CI_CD/blob/main/img/010220221035.jpg">
 </kbd>
 <br />
 <br />
